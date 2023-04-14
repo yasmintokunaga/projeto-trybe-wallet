@@ -18,25 +18,18 @@ Desenvolver uma carteira de controle de gastos com conversor de moedas.
 # Requisitos:
 
 * Implementação de uma página de login
-* Criação de um Header, com um campo de e-mail (capturado da store -redux) e um campo com a soma de desepesas da carteira)
+* Criação de um Header, com um campo de e-mail (capturado da store - redux) e um campo com a soma de desepesas da carteira
 * Criação de um formulário para a inclusão das despesas e esolha do câmbio a ser convertido
 * Criação de uma tabela com a lista de despesas
 * Inclusão de botões para excluir ou editar alguma linha da tabela
 
 # Resultado:
 
-* Busca
+* Login
 
-![resultado do meu projeto](./src/img/online-store-search.png)
+![resultado do meu projeto](./img/login-trybe-wallet.png)
 
-* Detalhe do produto
+* Carteira
 
-![resultado do meu projeto](./src/img/online-store-product-details.png)
+![resultado do meu projeto](./img/carteira-trybe-wallet.png)
 
-* Carrinho de compras
-
-![resultado do meu projeto](./src/img/online-store-shopping-cart.png)
-
-* Checkout
-
-![resultado do meu projeto](./src/img/online-store-checkout.png)

@@ -1,0 +1,11 @@
+input , select {
+  border: gray;
+  border-radius: 5px;
+  height: 25px;
+  margin-left: 5px;
+  max-width: 120px;
+}
+
+button {
+  max-width: 150px;
+}
